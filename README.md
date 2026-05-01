@@ -6,7 +6,7 @@
   <img src="https://your-logo-url.com/logo.png" width="110" style="border-radius:50%; backdrop-filter: blur(10px);" />
 </p> -->
 
-<h1 align="center">✨ Midhun Harikumar</h1>
+<h1 align="center">Midhun Harikumar</h1>
 <h3 align="center">💻 Developer • 🎨 UI/UX Designer • 🚀 Creator</h3>
 
 <p align="center">
