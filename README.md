@@ -49,7 +49,7 @@ passion: Turning ideas into interactive experiences
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,figma,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,figma,git,github,vscode,postman,mongodb" />
 </p>
 
 ---
